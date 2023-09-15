@@ -50,3 +50,34 @@ NOT DOMAIN-SUFFIX
 NOT HOST-SUFFIX
 --------------Extensions---------------------------
 site:xxyz.com ext:doc | ext:docx | ext:odt | ext:pdf | ext:rtf | ext:sxw | ext:psw | ext:ppt | ext:pptx | ext:pps | ext:csv | ext:txt | ext:html | ext:php | ext:xls
+
+===============USEFUL==============================
+dotfiles
+filename:sftp-config.json password
+filename:.s3cfg
+filename:config.php dbpasswd
+filename:.bashrc password
+filename:.esmtprc password
+filename:.netrc password
+filename:_netrc password
+filename:.env MAIL_HOST=smtp.gmail.com
+filename:prod.exs NOT prod.secret.exs
+filename:.npmrc _auth
+filename:WebServers.xml
+filename:sftp-config.json
+filename:.esmtprc password
+filename:passwd path:etc
+filename:prod.secret.exs
+filename:sftp-config.json
+filename:proftpdpasswd
+filename:travis.yml
+filename:vim_settings.xml
+filename:sftp.json path:.vscode
+filename:secrets.yml password
+extension:sql mysql dump
+extension:sql mysql dump
+extension:sql mysql dump password
+extension:pem private
+extension:ppk private
+
+
