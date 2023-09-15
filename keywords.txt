@@ -1,0 +1,50 @@
+databaseURL:
+config.php
+AIza
+DB_PASSWORD
+DB_USERNAME
+DB_CONNECTION_STRING
+DB_CONNECTION
+AWS_ACCESS_KEY_ID
+AWS_SECRET_ACCESS_KEY
+FTP_PORT
+FTP_PASSWORD
+DB_DATABASE=
+DB_HOST=
+DB_PORT=
+DB_PW=
+DB_USER=
+dbUsername
+dbPassword
+dbConnection
+dbConfig
+sk_
+messagingSenderId
+api_key
+“api keys”
+authorization_bearer:
+client_secret
+api_token:
+“api token”
+client_id
+password
+user_password
+user_pass
+passcode
+client_secret
+secret
+OTP
+remove password
+root
+admin
+log
+trash
+
+------------Filters-------------------
+language:shell username
+language:sql username
+language:python ftp
+language:bash ftp
+--------------Filter For Accuracy------------------
+NOT DOMAIN-SUFFIX 
+NOT HOST-SUFFIX
