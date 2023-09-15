@@ -40,7 +40,7 @@ admin
 log
 trash
 
-------------Filters-------------------
+--------------Filters------------------------------
 language:shell username
 language:sql username
 language:python ftp
@@ -48,3 +48,5 @@ language:bash ftp
 --------------Filter For Accuracy------------------
 NOT DOMAIN-SUFFIX 
 NOT HOST-SUFFIX
+--------------Extensions---------------------------
+site:xxyz.com ext:doc | ext:docx | ext:odt | ext:pdf | ext:rtf | ext:sxw | ext:psw | ext:ppt | ext:pptx | ext:pps | ext:csv | ext:txt | ext:html | ext:php | ext:xls
