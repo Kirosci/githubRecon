@@ -1,3 +1,5 @@
+"private":true
+"private":
 databaseURL:
 config.php
 AIza
